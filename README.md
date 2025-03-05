@@ -3,6 +3,9 @@
 ## 🔹 **Overview**
 This is a simple **React application** that displays weather data for different locations on a map using **React Leaflet**. Users can interact with the map by clicking on a location or searching for a city to view relevant weather details fetched from the **OpenWeatherMap API**.
 
+## 🔹 **Screenshot**
+
+
 ---
 
 ## 🔹 **How to Set Up and Run the Project Locally**
