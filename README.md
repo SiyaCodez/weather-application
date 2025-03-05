@@ -32,6 +32,8 @@ Ensure you have the following installed on your machine:
    ```
    The app should open at **http://localhost:3000/** in your browser.
 
+   OR Access it here: https://weather-map-1.netlify.app/
+
 ---
 
 ## 🔹 **Libraries and Tools Used**
