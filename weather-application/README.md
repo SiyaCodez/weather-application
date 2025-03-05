@@ -15,7 +15,7 @@ Ensure you have the following installed on your machine:
 ### **📌 Installation Steps**
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SiyaCodez/weather-application.git
+   git clone https://github.com/yourusername/weather-map-app.git
    cd weather-app
    ```
 2. **Install dependencies**
