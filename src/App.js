@@ -87,7 +87,7 @@ const WeatherApp = () => {
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
-          <button type="submit">Search</button>
+          <button className="searchbtn" type="submit">Search</button>
         </form>
         <button onClick={toggleDarkMode}>
           {isDarkMode ? "Light Mode 🌞" : "Dark Mode 🌘"}
