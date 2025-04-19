@@ -108,7 +108,7 @@ header h1{
   color: red;
 }
 @media (max-width: 768px) {
-  .search-button {
+  .searchbtn {
     margin-top: 20px; 
   }
 }
